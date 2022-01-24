@@ -18,3 +18,11 @@
 .sec-margin{
    margin-top: 100px;
 }
+.ctm-w-auto{
+   width: 100%;
+}
+@media only screen and (max-width: 768px){
+   .ctm-w-auto{
+      width: auto;
+   }
+}

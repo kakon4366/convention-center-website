@@ -1,6 +1,20 @@
 
-@media only screen and (max-width: 600px) {
-   .w-full{
-      width: auto;
-   }
+.package-check{
+   color: #5243C2;
+   background-color: #EDECF9;
+   padding: 5px;
+   border-radius: 50%;
+   margin-right: 5px;
+}
+.package-rounded{
+   border-radius: 28px;
+}
+.package-bg{
+   background-color: #3F87F5;
+}
+.top-up{
+   top: -30px;
+}
+.sec-margin{
+   margin-top: 100px;
 }

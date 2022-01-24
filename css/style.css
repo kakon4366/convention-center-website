@@ -21,8 +21,21 @@
 .ctm-w-auto{
    width: 100%;
 }
+.toast{
+   width: auto;
+}
+/* Tablet Devices */
 @media only screen and (max-width: 768px){
    .ctm-w-auto{
       width: auto;
+   }
+   .sec-margin{
+      margin-top: 40px;
+   }
+}
+/* Tablet Devices large */
+@media only screen and (max-width: 992px){
+   .top-up{
+      top: 0px;
    }
 }
